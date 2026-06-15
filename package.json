@@ -1,0 +1,15 @@
+{
+  "name": "discord-role-bot",
+  "version": "1.0.0",
+  "description": "Discord Role Management Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
